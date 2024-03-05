@@ -1,1 +1,1 @@
-place:bangalore
+place:bangalore_near
